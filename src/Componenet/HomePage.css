@@ -1,0 +1,22 @@
+
+
+  .container {
+    background-image: url('./h1_hero.png');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .title {
+    font-family: "Your Unique Font", sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    margin-left: auto;
+    color: #333;
+  }
+  
+  
